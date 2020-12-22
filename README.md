@@ -7,7 +7,7 @@ Join me, where getting lost in a programming language is the only true destinati
 
 
 Compilers
-Mac: llvm GCC (Clang)
+Mac: llvm GCC (Clang) \n
 You can get the GNU GCC compiler by using homebrew `brew install gcc`
 
 Linux: GNU
