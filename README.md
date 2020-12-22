@@ -7,11 +7,13 @@ Join me, where getting lost in a programming language is the only true destinati
 
 
 Compilers
-Mac: llvm GCC (Clang) \n
+
+Mac: llvm GCC (Clang)  
 You can get the GNU GCC compiler by using homebrew `brew install gcc`
 
 Linux: GNU
 Windows: CyGwin
+
 
 Code Editor Tools
 Visual Studio Code
