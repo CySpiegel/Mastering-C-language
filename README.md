@@ -11,15 +11,15 @@ Compilers
 Mac: llvm GCC (Clang)  
 You can get the GNU GCC compiler by using homebrew `brew install gcc`
 
-Linux: GNU
+Linux: GNU  
 Windows: CyGwin
 
 
-Code Editor Tools
+Code Editor Tools  
 Visual Studio Code
 
-Required Extentions
+Required Extentions  
 C/C++ by Microsoft
 
-Recomended Extentions
+Recomended Extentions  
 indent-rainbow
