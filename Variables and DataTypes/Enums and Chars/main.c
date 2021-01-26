@@ -30,6 +30,7 @@ int main()
 
     printf("This month: %s\n", str(currentMonth));
     printf("This month is: %s\n", xstr(currentMonth) );
+    printf("this is the end");
 
     return 0;
 }
